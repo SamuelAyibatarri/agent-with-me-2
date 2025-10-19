@@ -6,8 +6,8 @@ import "./globals.css";
 import { Toaster } from "sonner";
 
 export const metadata: Metadata = {
-  title: "v0 App",
-  description: "Created with v0",
+  title: "Agent With Me",
+  description: "Find, rent, or buy your next home easily and securely.",
   generator: "v0.app",
 };
 
